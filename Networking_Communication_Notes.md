@@ -314,3 +314,4 @@ User → CDN Edge Server → Regional Cache → Origin Server
 ---
 
 *These notes cover the fundamental networking and communication concepts essential for system design. Each technology has its place in building scalable, performant systems.*
+
