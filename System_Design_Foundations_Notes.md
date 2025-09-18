@@ -580,3 +580,4 @@ These foundations prepare you for:
 ---
 
 *Keep these notes handy for quick reference and review regularly to maintain your system design knowledge!*
+
